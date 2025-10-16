@@ -1,0 +1,34 @@
+there are 4 mainly og collection/
+
+list
+tuple
+set
+dictionory
+
+
+(1) List ::: list is an oderable, sequence, list is an indexable
+             list is a mutable data type.
+
+
+               by default index start with 0.
+
+               list which is represent by [].
+
+               list store any data type values.
+
+syntax ::::
+   var = []
+
+list is store any kind of data type but 
+array store same kind of data type.
+
+
+======================================
+
+to add record in list
+
+
+1 append()
+2 extend()
+3 insert()
+
